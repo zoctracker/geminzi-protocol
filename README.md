@@ -20,11 +20,11 @@ This codebase is open-sourced for transparency and security auditing purposes.
 ## 🔒 Security & Verification
 Developers and auditors may clone this repository to verify the integrity of the deployed contracts against the source code.
 
+## 📩 Inquiry
+Geminzi is currently in a closed development phase. For partnership or security reports: core@geminzi.io
+
 ```bash
 git clone [https://github.com/Geminzi/geminzi-protocol.git](https://github.com/Geminzi/geminzi-protocol.git)
 # Review contracts in /contracts
-
-📩 Inquiry
-Geminzi is currently in a closed development phase. For partnership or security reports: core@geminzi.io
 
 © 2026 Geminzi Protocol.
